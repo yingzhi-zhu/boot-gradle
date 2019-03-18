@@ -14,7 +14,7 @@ public class BootGradleApplication {
     }
     @GetMapping("hello")
     public String helloWorld(){
-        return "hello jenkins";
+        return "hello jenkins ";
     }
 
 }
